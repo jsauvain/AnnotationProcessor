@@ -1,0 +1,5 @@
+.idea
+AnnotationProcessing.iml
+
+*/target/
+*/dependency-reduced-pom.xml
